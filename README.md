@@ -1,1 +1,0 @@
-# with_out_training_road_detection_repo
